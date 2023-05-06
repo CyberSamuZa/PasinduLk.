@@ -57,13 +57,13 @@ cmd({
         let { data } = await axios.get('https://api.github.com/repos/SamPandey001/Secktor-Md')
         let cap = `*🌐 PasinduLk-𝗠𝗗 _𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ♦️*
 
-●. *Support group :* https://chat.whatsapp.com/KwFkWjI8qJ6B174esar8IM
+●. *Support group :* https://chat.whatsapp.com/FuLtXVpms1LBx6RRVh8fEv
 
-●. *Github:* 
+●. *Github:* https://github.com/pasindu12345678
 
-●. *Developer:*
+●. *Developer: https://github.com/pasindu12345678/Pasindu-Md*
 
-PasinduLk
+★ᴘᴀsɪɴᴅᴜ-ᴍᴅ ᴏғғɪᴀᴄʟ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ★
 
 `
         let buttonMessaged = {
@@ -171,7 +171,7 @@ cmd({
 .logo30 text
 
 
-PasinduLk
+★ᴘᴀsɪɴᴅᴜ-ᴍᴅ ᴏғғɪᴀᴄʟ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ★
 `,
 
                 footer: tlang().footer,
@@ -385,7 +385,7 @@ cmd({
 
 cmd({
 
-            pattern: "mjakageksjsgwusksgaisjsgajhshshshshehbenu",
+            pattern: "menu1",
 
             desc: "(menu cmdlist).",
 
@@ -413,7 +413,7 @@ cmd({
                 caption: `
 
 ┌────────────────────────────
-│  👨‍💻 *PasinduLk-MD* 👨‍💻  *COMMANDS* 🎗️
+│  👨‍💻 *★ᴘᴀsɪɴᴅᴜ-ᴍᴅ★* 👨‍💻  *COMMANDS* 🎗️
 └────────────────────────────
 
 
@@ -482,7 +482,7 @@ cmd({
 │.sn
 └─────────◉
 
-PasinduLk
+★ᴘᴀsɪɴᴅᴜ-ᴍᴅ ᴏғғɪᴀᴄʟ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ★
 `,
 
                 footer: tlang().footer,
@@ -555,7 +555,7 @@ cmd({
 ✅ *ACTIVE ADD AND LEFT MSJ -* .act events
 ❌ *DEACTIVE ADD AND LEFT MSJ -* .deact events
 
-PasinduLk
+★ᴘᴀsɪɴᴅᴜ-ᴍᴅ ᴏғғɪᴀᴄʟ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ★
 `,
 
 
